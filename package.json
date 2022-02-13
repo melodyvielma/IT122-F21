@@ -1,0 +1,19 @@
+{
+  "name": "basicwebserver",
+  "version": "1.0.0",
+  "description": "it122 app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NDeshong/it122-f21.git"
+  },
+  "author": "Nicole Deshong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NDeshong/it122-f21/issues"
+  },
+  "homepage": "https://github.com/NDeshong/it122-f21#readme"
+}
