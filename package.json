@@ -1,0 +1,19 @@
+{
+  "name": "it122-f21-1",
+  "version": "1.0.0",
+  "description": "IT122 Fall 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melodyvielma/IT122-F21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melodyvielma/IT122-F21/issues"
+  },
+  "homepage": "https://github.com/melodyvielma/IT122-F21#readme"
+}
